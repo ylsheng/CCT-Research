@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/CHERYL/Downloads/custom-tabs-client-master/customtabs/src/main/assets"/><source path="/Users/CHERYL/Downloads/custom-tabs-client-master/customtabs/assets"/><source path="/Users/CHERYL/Downloads/custom-tabs-client-master/customtabs/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/CHERYL/Downloads/custom-tabs-client-master/customtabs/src/debug/assets"/></dataSet></merger>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/CHERYL/Downloads/custom-tabs-client-master/Application/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_launcher.png",
+        "source": "/Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/CHERYL/Downloads/custom-tabs-client-master/Application/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_share.png",
+        "source": "/Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/res/drawable-xxxhdpi/ic_share.png"
+    },
+    {
+        "merged": "/Users/CHERYL/Downloads/custom-tabs-client-master/Application/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_arrow_back.png",
+        "source": "/Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/res/drawable-xxxhdpi/ic_arrow_back.png"
+    }
+]

@@ -1,0 +1,106 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:16:1-47:12
+	package
+		ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:17:5-44
+		INJECTED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:19:5-30
+		INJECTED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:18:5-28
+		INJECTED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:16:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:21:22-64
+uses-sdk
+ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:23:5-25:41
+MERGED from [custom-tabs-client-master:customtabs:unspecified] /Users/CHERYL/Downloads/custom-tabs-client-master/customtabs/build/intermediates/bundles/default/AndroidManifest.xml:20:5-44
+MERGED from [custom-tabs-client-master:shared:unspecified] /Users/CHERYL/Downloads/custom-tabs-client-master/shared/build/intermediates/bundles/default/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:23.2.0] /Users/CHERYL/.android/build-cache/ebbec5ba8a51512a09f95aa7f3678f7f8f0d6e2c/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] /Users/CHERYL/.android/build-cache/ab667fa8221b7cf255bae03894953059c66a941e/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.0] /Users/CHERYL/.android/build-cache/b96ee013e82fd25c46fd94f51a160487e5f03da4/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/CHERYL/.android/build-cache/1ebc8318bcdc8ba64767754408f99f8e96395e8b/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/CHERYL/.android/build-cache/dd97bea15132c210c89b84a18a94ff7070d4d5d5/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/CHERYL/.android/build-cache/d4b6897b29252d74af98cdfea32ebe0a6818ca31/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/CHERYL/.android/build-cache/8ed3e140a1de43e9ac141d7f52bf5c1aeaffaf2f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/CHERYL/.android/build-cache/a4671c138a4466b04d48941c2646b21f5301ad8c/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/CHERYL/.android/build-cache/6dc696fcc27ee9e35bffa748f9f6b7f555463a67/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.0] /Users/CHERYL/.android/build-cache/ebbec5ba8a51512a09f95aa7f3678f7f8f0d6e2c/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:25:9-38
+		INJECTED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:24:9-35
+		INJECTED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml
+application
+ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:27:5-46:19
+MERGED from [custom-tabs-client-master:customtabs:unspecified] /Users/CHERYL/Downloads/custom-tabs-client-master/customtabs/build/intermediates/bundles/default/AndroidManifest.xml:22:5-20
+MERGED from [custom-tabs-client-master:shared:unspecified] /Users/CHERYL/Downloads/custom-tabs-client-master/shared/build/intermediates/bundles/default/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.0] /Users/CHERYL/.android/build-cache/ebbec5ba8a51512a09f95aa7f3678f7f8f0d6e2c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] /Users/CHERYL/.android/build-cache/ab667fa8221b7cf255bae03894953059c66a941e/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] /Users/CHERYL/.android/build-cache/b96ee013e82fd25c46fd94f51a160487e5f03da4/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/CHERYL/.android/build-cache/1ebc8318bcdc8ba64767754408f99f8e96395e8b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/CHERYL/.android/build-cache/dd97bea15132c210c89b84a18a94ff7070d4d5d5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/CHERYL/.android/build-cache/d4b6897b29252d74af98cdfea32ebe0a6818ca31/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/CHERYL/.android/build-cache/8ed3e140a1de43e9ac141d7f52bf5c1aeaffaf2f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/CHERYL/.android/build-cache/a4671c138a4466b04d48941c2646b21f5301ad8c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/CHERYL/.android/build-cache/6dc696fcc27ee9e35bffa748f9f6b7f555463a67/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:29:9-41
+	android:allowBackup
+		ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:30:9-36
+	android:icon
+		ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:28:9-45
+activity#org.chromium.customtabsclient.MainActivity
+ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:31:9-38:20
+	android:label
+		ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:33:13-45
+	android:name
+		ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:32:13-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:36:27-74
+service#org.chromium.customtabsclient.shared.KeepAliveService
+ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:39:9-41:38
+	android:exported
+		ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:41:13-36
+	android:name
+		ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:40:13-52
+receiver#org.chromium.customtabsclient.BrowserActionsReceiver
+ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:42:9-44:38
+	android:exported
+		ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:44:13-36
+	android:name
+		ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:43:13-80
+receiver#org.chromium.customtabsclient.BottomBarManager
+ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:45:9-53
+	android:name
+		ADDED from /Users/CHERYL/Downloads/custom-tabs-client-master/Application/src/main/AndroidManifest.xml:45:19-51
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] /Users/CHERYL/.android/build-cache/1ebc8318bcdc8ba64767754408f99f8e96395e8b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/CHERYL/.android/build-cache/dd97bea15132c210c89b84a18a94ff7070d4d5d5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/CHERYL/.android/build-cache/d4b6897b29252d74af98cdfea32ebe0a6818ca31/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/CHERYL/.android/build-cache/8ed3e140a1de43e9ac141d7f52bf5c1aeaffaf2f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/CHERYL/.android/build-cache/a4671c138a4466b04d48941c2646b21f5301ad8c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/CHERYL/.android/build-cache/6dc696fcc27ee9e35bffa748f9f6b7f555463a67/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/CHERYL/.android/build-cache/1ebc8318bcdc8ba64767754408f99f8e96395e8b/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/CHERYL/.android/build-cache/1ebc8318bcdc8ba64767754408f99f8e96395e8b/output/AndroidManifest.xml:26:9-47

@@ -1,0 +1,7 @@
+#Mon Nov 20 17:32:35 EST 2017
+base.0=/Users/CHERYL/Downloads/custom-tabs-client-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b906e08c658871f889b21f63655d4189597c4be3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/CHERYL/Downloads/custom-tabs-client-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b3bf38278bdfeadb7cdd08299a86e514a11b045a/classes.dex
+base.1=/Users/CHERYL/Downloads/custom-tabs-client-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b3bf38278bdfeadb7cdd08299a86e514a11b045a
+file.0=/Users/CHERYL/Downloads/custom-tabs-client-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b906e08c658871f889b21f63655d4189597c4be3/classes.dex

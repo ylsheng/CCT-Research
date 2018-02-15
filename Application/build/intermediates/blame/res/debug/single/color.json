@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/CHERYL/Downloads/custom-tabs-client-master/Application/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/CHERYL/.android/build-cache/ebbec5ba8a51512a09f95aa7f3678f7f8f0d6e2c/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/CHERYL/Downloads/custom-tabs-client-master/Application/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/CHERYL/.android/build-cache/ebbec5ba8a51512a09f95aa7f3678f7f8f0d6e2c/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/CHERYL/Downloads/custom-tabs-client-master/Application/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/CHERYL/.android/build-cache/ebbec5ba8a51512a09f95aa7f3678f7f8f0d6e2c/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/CHERYL/Downloads/custom-tabs-client-master/Application/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/CHERYL/.android/build-cache/ebbec5ba8a51512a09f95aa7f3678f7f8f0d6e2c/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/CHERYL/Downloads/custom-tabs-client-master/Application/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/CHERYL/.android/build-cache/ebbec5ba8a51512a09f95aa7f3678f7f8f0d6e2c/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/CHERYL/Downloads/custom-tabs-client-master/Application/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/CHERYL/.android/build-cache/ebbec5ba8a51512a09f95aa7f3678f7f8f0d6e2c/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/CHERYL/Downloads/custom-tabs-client-master/Application/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/CHERYL/.android/build-cache/ebbec5ba8a51512a09f95aa7f3678f7f8f0d6e2c/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/CHERYL/Downloads/custom-tabs-client-master/Application/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/CHERYL/.android/build-cache/ebbec5ba8a51512a09f95aa7f3678f7f8f0d6e2c/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/CHERYL/Downloads/custom-tabs-client-master/Application/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/CHERYL/.android/build-cache/ebbec5ba8a51512a09f95aa7f3678f7f8f0d6e2c/output/res/color/abc_primary_text_material_dark.xml"
+    }
+]
